@@ -12,5 +12,19 @@
     "category": "Cine & Series",
     "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "isLive": false
+  },
+  {
+    "id": 3,
+    "title": "Sintel HD (Fantasía Épica)",
+    "category": "Cine & Series",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "isLive": false
+  },
+  {
+    "id": 4,
+    "title": "Tears of Steel (Sci-Fi Acción)",
+    "category": "Especiales",
+    "videoUrl": "http://vjs.zencdn.net/v/oceans.mp4",
+    "isLive": false
   }
 ]
