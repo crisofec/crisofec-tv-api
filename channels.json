@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "TC Televisión",
+    "title": "Canal Uno HD",
     "category": "Live",
-    "videoUrl": "https://tctelevision.com/envivo/",
-    "posterUrl": "https://images.unsplash.com/photo-1...",
+    "videoUrl": "https://www.ecuaplay.online/playercanaluno.html",
+    "posterUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/330px-Canal_Uno_%28Ecuador%29_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "isLive": true
   },
   {
